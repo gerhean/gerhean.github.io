@@ -1,0 +1,4 @@
+#My Robot's Txt
+
+User-agent: *
+Disallow: /ErrorPage
