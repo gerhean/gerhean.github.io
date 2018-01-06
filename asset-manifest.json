@@ -1,9 +1,14 @@
 {
-  "main.css": "static/css/main.dafbf63f.css",
-  "main.css.map": "static/css/main.dafbf63f.css.map",
-  "main.js": "static/js/main.c564f5cf.js",
-  "main.js.map": "static/js/main.c564f5cf.js.map",
+  "main.css": "static/css/main.5820737b.css",
+  "main.css.map": "static/css/main.5820737b.css.map",
+  "main.js": "static/js/main.b3b0c378.js",
+  "main.js.map": "static/js/main.b3b0c378.js.map",
   "static\\media\\AxisCultRecruit.jpg": "static/media/AxisCultRecruit.be477ac6.jpg",
+  "static\\media\\NCC.jpg": "static/media/NCC.cbec8a83.jpg",
+  "static\\media\\NTUJDC.png": "static/media/NTUJDC.ac6d63e2.png",
+  "static\\media\\Splash.png": "static/media/Splash.11f2ec54.png",
   "static\\media\\akuaCuteSound0.mp3": "static/media/akuaCuteSound0.affea960.mp3",
-  "static\\media\\butItWasMeDia.png": "static/media/butItWasMeDia.e389cfdf.png"
+  "static\\media\\butItWasMeDia.png": "static/media/butItWasMeDia.e389cfdf.png",
+  "static\\media\\cddc.jpg": "static/media/cddc.9924cc8e.jpg",
+  "static\\media\\ssLogo.png": "static/media/ssLogo.9d852228.png"
 }
